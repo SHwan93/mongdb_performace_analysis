@@ -1,4 +1,4 @@
-yarn start
+1. yarn start
 
 #### 선결조건) .router/index 의 '/sampleData' 를 호출하여 로컬 몽고디비에 게시물 데이터 10개 댓글 데이터 10000개를 여러 컬렉션( post, review, index_post, index_review, de_post) 에 삽입
 
